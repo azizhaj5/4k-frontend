@@ -1,3 +1,9 @@
+# Getting Setup
+
+To use react, you will need to [download node](https://nodejs.org/en/download/). Once node is downloaded, follow all the standard configuration options. 
+
+Once node has been installed, clone the repository from Github. Open the command line in the project and run `npm install`. This will download all the dependencies for the project :) 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
